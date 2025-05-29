@@ -1,4 +1,4 @@
-✨ Features
+# Features
 
 Add tasks
 
@@ -6,7 +6,7 @@ Delete tasks
 
 Clean and responsive UI
 
-🛠️ Technologies Used
+# Technologies Used
 
 HTML
 
@@ -14,13 +14,13 @@ CSS
 
 JavaScript
 
-🚀 Getting Started
+# Getting Started
 
 https://budjos.github.io/TaskFlow/
 
 Start adding tasks!
 
-📁 Project Structure
+# Project Structure
 
 ├── index.html
 ├── style.css
